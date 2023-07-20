@@ -1,0 +1,10 @@
+/PSS(R)E 34
+COM
+COM SUBSYSTEM description file entry created by PSS(R)E Config File Builder
+COM
+SUBSYSTEM 'IEEE118BUS'
+   AREA 1
+   AREA 2
+   AREA 3
+END
+END

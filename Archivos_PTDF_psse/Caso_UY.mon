@@ -1,0 +1,7 @@
+/PSS(R)E 34
+COM
+COM MONITORED element file entry created by PSS(R)E Config File Builder
+COM
+MONITOR BRANCHES IN SUBSYSTEM 'Caso_UY'
+MONITOR TIES FROM SUBSYSTEM 'Caso_UY'
+END

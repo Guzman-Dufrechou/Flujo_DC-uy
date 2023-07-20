@@ -1,0 +1,9 @@
+/PSS(R)E 34
+COM
+COM SUBSYSTEM description file entry created by PSS(R)E Config File Builder
+COM
+SUBSYSTEM 'TUTORESV2'
+   AREA 93
+   AREA 99
+END
+END

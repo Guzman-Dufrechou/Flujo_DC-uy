@@ -1,0 +1,15 @@
+/PSS(R)E 34
+COM
+COM SUBSYSTEM description file entry created by PSS(R)E Config File Builder
+COM
+SUBSYSTEM 'TUTORES'
+   ZONE 900
+   ZONE 910
+   ZONE 920
+   ZONE 930
+   ZONE 940
+   ZONE 950
+   ZONE 960
+   ZONE 980
+END
+END
